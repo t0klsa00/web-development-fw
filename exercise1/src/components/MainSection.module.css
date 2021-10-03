@@ -1,0 +1,19 @@
+.container {
+    background-color: white;
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    width: 710px;
+}
+
+.newstopic {
+    font-family: Lucida;
+    background-color: white;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 10px;
+}
+

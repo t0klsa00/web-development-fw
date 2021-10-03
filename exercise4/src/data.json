@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Sceptre E248W-19203R 24 Ultra Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Metallic Black 2018",
+      "manufacturer": "Sceptre",
+      "category": "monitor",
+      "price": 11.37,
+      "rating": 2,
+      "image": "sceptredisplay.png",
+      "promos": [
+        "Best display 2019",
+        "Ultra hd",
+        "sceptre"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Roku Ultra | Streaming Device HD/4K/HDR/Dolby Vision with Dolby Atmos, Bluetooth Streaming, and Roku Voice Remote",
+      "manufacturer": "Roku Ultra",
+      "category": "Paperback",
+      "price": 12.19,
+      "rating": 4,
+      "image": "rokuultra.png",
+      "promos": [
+        "Winner of the 2019 Streaming devices",
+        "Very well known manufacturer"
+        ]
+    },
+    {
+      "id": 3,
+      "name": "WD 2TB Elements Portable External Hard Drive HDD, USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0020BBK-WESN",
+      "manufacturer": "WD 2TB Elements",
+      "type": "Hardcover",
+      "price": 34.99,
+      "rating": 5,
+      "image": "wdelements.png",
+      "promos": [
+        "Best Hard drive known by everything",
+        "Most sold item in amazon"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Sauté, Yogurt Maker, Warmer & Sterilizer, 6 Quart, Stainless Steel/Black",
+      "manufacturer": "Instant pot",
+      "category": "Kitchen",
+      "price": 119.10,
+      "rating": 1,
+      "image": "pata.png",
+      "promos": [
+        "Best in the kitchen",
+        "Best pot ever created",
+        "Publishers Weekly Best Poetry Book of 2018"
+      ]
+    },
+    {
+      "id": 5,
+    "name": "Logitech BRIO Ultra HD Webcam for Video Conferencing, Recording, and Streaming - Black",
+    "manufacturer": "Logitech",
+    "category": "camera",
+    "price": 119.10,
+    "rating": 4,
+    "image": "brio.png",
+    "promos": [
+      "World best webcam 2021 prize"
+      ]
+    },
+    {
+      "id": 6,
+    "name": "SAMSUNG 980 PRO 1TB PCIe NVMe Gen4 Internal Gaming SSD M.2 (MZ-V8P1T0B)",
+    "manufacturer": "Samsung",
+    "category": "SSD",
+    "price": 119.10,
+    "rating": 2,
+    "image": "ssd.png",
+    "promos": [
+      "Fastest SSD 2020",
+      "Company regognition"
+      ]
+    }
+  ]
+}

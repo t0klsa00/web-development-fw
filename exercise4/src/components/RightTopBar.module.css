@@ -1,0 +1,49 @@
+.main {
+    white-space:'nowrap';
+    color:'white';
+    background-color: rgb(15, 17, 17);  
+    width: 50%;
+    height: 100px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    align-items: center;
+    color:white;
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    display: flex;
+    color: white;
+    white-space: nowrap;
+    align-items: row;
+}
+
+.signin {
+    background-color: white;
+    color: black;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 200px;
+    margin-right: 40px;
+}
+
+.cartlogo {
+    background-color: white;
+    color: white;
+    border-radius: 6px;
+    padding: 10px;
+}
+
+.objects {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+}
