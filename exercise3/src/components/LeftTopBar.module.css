@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(15, 17, 17);
+    width: 50%;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    color: white;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 25px;
+    white-space: nowrap;
+}
+
+.brand {
+    margin-right: 20%;
+    font-size: 36px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: Lucida;
+}
